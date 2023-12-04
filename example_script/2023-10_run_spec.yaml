@@ -1,0 +1,32 @@
+timebefore: '2023-10-15T00:00:00'
+timebetween:
+- from: '2023-10-01T00:00:00'
+  to: '2023-10-15T00:00:00'
+description: Pulsar Timing - October 2023
+strategy_name: BF Pulsar Timing
+scheduling_set_id: 270
+stations:
+- CS002
+- CS003
+- CS004
+- CS005
+- CS006
+- CS007
+- CS011
+- CS013
+- CS017
+- CS021
+- CS024
+- CS026
+- CS028
+- CS030
+- CS031
+- CS032
+- CS101
+- CS103
+- CS201
+- CS301
+- CS302
+- CS401
+- CS501
+max_nr_missing: 4

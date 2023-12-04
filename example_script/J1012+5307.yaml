@@ -1,0 +1,9 @@
+name: J1012+5307
+angle1: '10:12:33.4337'
+angle2: '+53:07:02.588'
+duration_s: 900.0
+elev_min_deg: 30.0
+lst_max_s: 7200.0
+lst_min_s: -7200.0
+priority_queue: B
+rank: 0.98

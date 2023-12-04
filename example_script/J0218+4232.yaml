@@ -1,0 +1,9 @@
+name: J0218+4232
+angle1: '02:18:06.3510'
+angle2: '+42:32:17.43'
+duration_s: 900.0
+elev_min_deg: 30.0
+lst_max_s: 7200.0
+lst_min_s: -7200.0
+priority_queue: B
+rank: 0.98
